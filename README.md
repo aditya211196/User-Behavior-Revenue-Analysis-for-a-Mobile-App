@@ -1,5 +1,7 @@
 # User-Behavior-Revenue-Analysis-for-a-Mobile-App
 📊 Mobile App User Behavior & Revenue Analysis
+
+
 📌 Project Overview
 This project analyzes user-level behavioral and revenue data from a mobile app to uncover actionable insights into user engagement, churn risk, and monetization patterns. Using Python, I applied RFM segmentation, funnel analysis, and other metrics to understand user lifecycle stages and provide recommendations to improve retention and revenue generation.
 
